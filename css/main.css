@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster|Roboto");
+body {
+  background: yellowgreen;
+  background: url("../images/always-grey.png"), linear-gradient(180deg, yellowgreen, steelblue);
+  font-family: Roboto, san-serif;
+}
+
+h1 {
+  font-family: Lobster, Cursive;
+}
+
+h1 {
+  font-size: 150px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
